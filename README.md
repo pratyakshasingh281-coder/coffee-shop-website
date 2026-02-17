@@ -1,8 +1,8 @@
-# ☕ Brew Haven - Coffee Shop Website
+ ☕ Brew Haven - Coffee Shop Website
 
 A modern coffee shop website built using HTML and CSS.
 
-## 📌 Project Overview
+ 📌 Project Overview
 This project is a simple and clean coffee shop website that showcases:
 - A hero section
 - Navigation bar
@@ -12,25 +12,25 @@ This project is a simple and clean coffee shop website that showcases:
 
 It is designed as a beginner front-end web development project.
 
-## 🛠️ Technologies Used
+🛠️ Technologies Used
 - HTML5
 - CSS3
 
-## 🚀 Features
+ 🚀 Features
 - Clean and modern UI
 - Organized layout
 - Easy navigation
 - Styled menu cards
 - Responsive-friendly structure
 
-## 📈 Future Improvements
+ 📈 Future Improvements
 - Make fully responsive for all devices
 - Add JavaScript for interactivity
 - Add online ordering feature
 - Add animations and transitions
 
-## 🌍 Live Website
-(After enabling GitHub Pages, paste your live link here)
+ 🌍 Live Website
+https://pratyakshasingh281-coder.github.io/coffee-shop-website/
 
 ---
 
