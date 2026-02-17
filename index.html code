@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Brew Haven | Coffee Shop</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body style="background-color:rgba(53, 2, 2, 0.767)"
+
+    <header>
+        <nav>
+            <h1 class="logo">☕ Brew Haven</h1>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#menu">Menu</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+
+        <div class="hero" id="home">
+            <h2>Freshly Brewed Happiness</h2>
+            <p>Experience the best handcrafted coffee in town.</p>
+            <a href="#menu" class="btn">View Menu</a>
+        </div>
+    </header>
+
+    <section class="menu" id="menu">
+        <h2>Our Menu</h2>
+        <div class="menu-container">
+            <div class="card">
+                <h3>Espresso</h3>
+                <p>Strong and bold classic coffee.</p>
+                <span>₹120</span>
+            </div>
+
+            <div class="card">
+                <h3>Cappuccino</h3>
+                <p>Perfect blend of espresso and frothy milk.</p>
+                <span>₹180</span>
+            </div>
+
+            <div class="card">
+                <h3>Latte</h3>
+                <p>Smooth espresso with steamed milk.</p>
+                <span>₹200</span>
+            </div>
+
+            <div class="card">
+                <h3>Mocha</h3>
+                <p>Chocolate flavored creamy coffee.</p>
+                <span>₹220</span>
+            </div>
+        </div>
+    </section>
+
+    <section class="about" id="about">
+        <h2>About Us</h2>
+        <p>
+            Brew Haven was founded with a passion for quality coffee and warm hospitality.
+            We source the finest beans and create a cozy environment for coffee lovers.
+        </p>
+    </section>
+
+    <section class="contact" id="contact">
+        <h2>Contact Us</h2>
+        <p>Email: brewhaven@email.com</p>
+        <p>Phone: +91 9876543210</p>
+        <p>Location: Your City, India</p>
+    </section>
+
+    <footer>
+        <p>© 2026 Brew Haven. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
